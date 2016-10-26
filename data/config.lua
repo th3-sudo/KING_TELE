@@ -27,14 +27,7 @@ about_text = "ߔ藥lcome to TH3_Evil v5.0 For more information Subscribe to the 
     "newgroup",
     "@kingtele1",
     "ardevs",
-    "endevs",
-    "h1",
-    "h2",
-    "hsudo",
-    "owners",
-    "set",
-    "stats",
-    "run",
+    "ende
     "ar-getlink",
     "hello",
     "serverinfo",
@@ -54,6 +47,7 @@ about_text = "ߔ藥lcome to TH3_Evil v5.0 For more information Subscribe to the 
   sudo_users = {
     241857359, 
     55197430,
+    
   }
 }
 return _
